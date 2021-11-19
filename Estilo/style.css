@@ -26,8 +26,7 @@
 
     --fonte-padrao: arial, verdana, helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', arial;
-    --fonte-iDroid: 'iDroid'; 
-        
+    --fonte-iDroid: 'iDroid';       
 
  }
 
@@ -171,8 +170,7 @@
 
      }
 
-     
-    
+         
     main p {
         margin: 15px 0px;
         text-align: justify;
@@ -221,5 +219,5 @@
 
     footer a:hover {
         text-decoration: underline;
-        color: var(--cor0 );
+        color: var(--cor1 );
     }
